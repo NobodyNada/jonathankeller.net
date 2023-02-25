@@ -209,22 +209,22 @@ Nothing but the blood of Jesus
 
 # Great Are You Lord
 
-You give life, You are love
-You bring light to the darkness
-You give hope, You restore
-Every heart that is broken
-
-Great are You Lord
-
-It's Your breath in our lungs
-So we pour out our praise
-We pour out our praise
-It's Your breath in our lungs
-So we pour out our praise to You only
-
-All the earth will shout Your praise
-Our hearts will cry, these bones will sing
-Great are You Lord
+You give life, You are love  
+You bring light to the darkness  
+You give hope, You restore  
+Every heart that is broken  
+  
+Great are You Lord  
+  
+It's Your breath in our lungs  
+So we pour out our praise  
+We pour out our praise  
+It's Your breath in our lungs  
+So we pour out our praise to You only  
+  
+All the earth will shout Your praise  
+Our hearts will cry, these bones will sing  
+Great are You Lord  
 
 # Better is One Day
 
