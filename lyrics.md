@@ -1,277 +1,256 @@
-# Holy is the Lord
+# Here for You
 
-We stand and lift up our hands  
-For the joy of the Lord is our strength  
-We bow down and worship Him now  
-How great, how awesome is He  
-And together we sing  
-
-Holy is the Lord, God Almighty  
-The earth is filled with His glory  
-Holy is the Lord, God Almighty  
-The earth is filled with His glory  
-The earth is filled with His glory  
-
-We stand and lift up our hands  
-For the joy of the Lord is our strength  
-We bow down and worship Him now  
-How great, how awesome is He  
-And together we sing  
-And everyone sing  
-
-Holy is the Lord, God Almighty  
-The earth is filled with His glory  
-Holy is the Lord, God Almighty  
-The earth is filled with His glory  
-The earth is filled with His glory  
-
-Yeah, it's rising up all around  
-It's the anthem of the Lord's renown  
-It's rising up all around  
-It's the anthem of the Lord's renown  
-
-Together we sing  
-And everyone sing  
-
-Holy is the Lord, God Almighty  
-The earth is filled with His glory  
-Holy is the Lord, God Almighty  
-The earth is filled with His glory  
-The earth is filled with His glory  
-The earth is filled with His glory  
-
-# Fall Afresh
-
-Awaken my soul, come awake  
-To hunger, to seek, to thirst  
-Awaken first love, come awake  
-And do as You did, at first  
-
-Spirit of the living God come fall afresh on me  
-Come wake me from my sleep  
-Blow through the caverns of my soul  
-Pour in me to overflow  
-To overflow  
-
-Spirit come and fill this place  
-Let Your glory now invade  
-Spirit come and fill this place  
-Let Your glory now invade  
-
-Spirit of the living God come fall afresh on me  
-Come wake me from my sleep  
-Blow through the caverns of my soul  
-Pour in me to overflow  
-
-# Give us Clean Hands
-
-We bow our hearts, we bend our knees  
-Oh Spirit come make us humble  
-We turn our eyes from evil things  
-Oh Lord we cast down our idols  
-
-So give us clean hands and give us pure hearts  
-Let us not lift our souls to another  
-Oh give us clean hands and give us pure hearts  
-Let us not lift our souls to another  
-
-Oh God let this be a generation that seeks  
-Who seeks Your face, oh God of Jacob  
-Oh God let us be a generation that seeks  
-Who seeks Your face, oh God of Jacob  
-
-We bow our hearts, we bend our knees  
-Oh Spirit come make us humble  
-We turn our eyes from evil things  
-Oh Lord we cast down our idols  
-
-So give us clean hands and give us pure hearts  
-Let us not lift our souls to another  
-Give us clean hands, oh God and give us pure hearts  
-Let us not lift our souls to another  
-
-Oh God let us be a generation that seeks  
-Who seeks Your face, oh God of Jacob  
-Oh God let us be a generation that seeks  
-Who seeks Your face, oh God of Jacob  
-Oh God of Jacob  
-
-# Build my Life
-
-Worthy of every song we could ever sing  
-Worthy of all the praise we could ever bring  
-Worthy of every breath we could ever breathe  
-We live for You, oh, we live for You  
-
-Jesus, the Name above every other name  
-Jesus, the only One who could ever save  
-Worthy of every breath we could ever breathe  
-We live for You, we live for You  
-
-Holy, there is no one like You  
-There is none beside You  
-Open up my eyes in wonder  
-And show me who You are  
-And fill me with Your heart  
-And lead me in Your love to those around me  
-
-Jesus, the Name above every other name  
-Jesus, the only One who could ever save  
-Worthy of every breath we could ever breathe  
-We live for You, oh, we live for You  
-
-Holy, there is no one like You  
-There is none beside You  
-Open up my eyes in wonder  
-And show me who You are  
-And fill me with Your heart  
-And lead me in Your love to those around me  
-
-And I will build my life upon Your love  
-It is a firm foundation  
-And I will put my trust in You alone  
-And I will not be shaken  
-
-And I will build my life upon Your love  
-It is a firm foundation  
-And I will put my trust in You alone  
-And I will not be shaken  
-
-Holy, there is no one like You  
-There is none beside You  
-Open up my eyes in wonder  
-And show me who You are  
-And fill me with Your heart  
-And lead me in Your love to those around me
-
-# How Great is Our God 
-
-The splendor of a King, clothed in majesty  
-Let all the Earth rejoice  
-All the Earth rejoice  
-
-He wraps himself in light  
-And darkness tries to hide  
-And trembles at His voice  
-Trembles at His voice  
-
-How great is our God, sing with me  
-How great is our God, and all will see  
-How great, how great is our God  
-
-Age to age He stands  
-And time is in His hands  
-Beginning and the end  
-Beginning and the end  
-
-The Godhead Three in One  
-Father Spirit Son  
-The Lion and the Lamb  
-The Lion and the Lamb  
-
-How great is our God, sing with me  
-How great is our God, and all will see  
-How great, how great is our God  
-
-Name above all names  
-Worthy of our praise  
-My heart will sing  
-How great is our God  
-
-You're the name above all names  
-You are worthy of our praise  
-And my heart will sing  
-How great is our God  
-
-How great is our God, sing with me  
-How great is our God, and all will see  
-How great, how great is our God  
-
-# We Fall Down
-
-We fall down  
-We lay our crowns  
-At the feet of Jesus  
-
-The greatness of  
-Mercy and love  
-At the feet of Jesus  
-
-And we cry holy, holy, holy  
-We cry holy, holy, holy  
-We cry holy, holy, holy  
-Is the lamb  
-
-# House of God Forever
-
-God is my shepherd  
-I won't be wanting, I won't be wanting  
-He makes me rest  
-In fields of green, with quiet streams  
-
-Even though I walk  
-Through the valley, of death and dying  
-I will not fear  
-'Cause You are with me, You are with me  
-
-Your shepherd's staff comforts me  
-You are my feast in the presence of enemies  
-Surely goodness will follow me, follow me  
-In the house of God forever  
-
-# How he Loves
-
-He is jealous for me.  
-Love's like a hurricane. I am a tree,  
-Bending beneath the weight of His wind and mercy.  
+Let our praise be Your welcome  
+Let our songs be a sign  
+We are here for You, we are here for You  
   
-When all of a sudden,  
-I am unaware of these afflictions eclipsed by glory.  
-And I realize just how beautiful You are,  
-And how great Your affections are for me.  
+Let Your breath come from heaven  
+Fill our hearts with Your life  
+We are here for You, we are here for You  
   
-And, oh, how He loves us, oh.  
-Oh, how He loves us.  
-How He loves us, oh.  
+To You our hearts are open  
+Nothing here is hidden  
+You are our one desire  
+You alone are holy  
+Only You are worthy  
+God, let Your fire fall down  
   
-And He is jealous for me.  
-Love's like a hurricane. I am a tree,  
-Bending beneath the weight of His wind and mercy.  
+Let our shout be Your anthem  
+Your renown fill the skies  
+We are here for You, we are here for You  
   
-When all of a sudden,  
-I am unaware of these afflictions eclipsed by glory.  
-And I realize just how beautiful You are,  
-And how great Your affections are for me.  
+Let Your Word move in power  
+Let what's dead come to life  
+We are here for You, we are here for You  
   
-And, oh, how He loves us, oh.  
-Oh, how He loves us.  
-How He loves us, oh.  
+To You our hearts are open  
+Nothing here is hidden  
+You are our one desire  
+You alone are holy  
+Only You are worthy  
+God, let Your fire fall down  
   
-Yeah, He loves us.  
-Oh, how He loves us.  
-Oh, how He loves us.  
-Oh, how He loves.  
+We welcome You with praise  
+We welcome You with praise  
+Almighty God of love  
+Be welcomed in this place  
   
-And we are His portion and He is our prize,  
-Drawn to redemption by the grace in His eyes.  
-If His grace is an ocean, we're all sinking.  
+We welcome You with praise  
+We welcome You with praise  
+Almighty God of love  
+Be welcomed in this place  
   
-And Heaven meets earth like an sloppy wet kiss.  
-And my heart turns violently inside of my chest.  
-I don't have time to maintain these regrets,  
-When I think about the way...  
+Let every heart adore  
+Let every soul awake  
+Almighty God of love  
+Be welcomed in this place  
   
-That He loves us.  
-Oh, how He loves us.  
-Oh, how He loves us.  
-Oh, how He loves.  
+We welcome You with praise  
+We welcome You with praise  
+Almighty God of love  
+Be welcomed in this place  
+
+# Your Love Awakens Me
+
+There were walls between us  
+By the cross you came  
+And broke them down  
+You broke them down  
   
-Yeah, He loves us.  
-Oh, how He loves us.  
-Oh, how He loves us.  
-Oh, how He loves.  
+There were chains around us  
+By your grace we are  
+No longer bound  
+No longer bound  
   
-Yeah, He loves us.  
-Oh, how He loves us.  
-Oh, how He loves us.  
-Oh, how He loves.
+You called me out of the grave  
+You called me into the light  
+You called my name and then my heart came alive  
+  
+Your love is greater  
+Your love is stronger  
+Your love awakens, awakens, awakens me  
+Your love is greater  
+Your love is stronger  
+Your love awakens, awakens, awakens me  
+  
+Feel the darkness shaking  
+All the dead are coming  
+Back to life  
+Back to life  
+  
+Hear the song awaken  
+All creation singing  
+We're alive  
+Cause You're alive  
+  
+You called me out of the grave  
+You called me into the light  
+You called my name and then my heart came alive  
+  
+Your love is greater  
+Your love is stronger  
+Your love awakens, awakens, awakens me  
+Your love is greater  
+Your love is stronger  
+Your love awakens, awakens, awakens me  
+  
+And what a love we found  
+Death can't hold us down  
+We shout it out  
+We're alive  
+Cause you're alive  
+  
+# God of Wonders  
+  
+Lord of all creation  
+Of the water, earth and sky  
+The Heavens are Your Tabernacle  
+Glory to the Lord on high  
+  
+God of wonders, beyond our galaxy  
+You are holy, holy  
+The universe declares Your majesty  
+You are holy, holy  
+Lord of heaven and earth  
+  
+Early in the morning  
+I will celebrate the light  
+And as I stumble into darkness  
+I will call Your name by night  
+  
+God of wonders, beyond our galaxy  
+You are holy, holy  
+The universe declares Your majesty  
+You are holy, holy  
+Lord of heaven and earth  
+  
+Hallelujah to the Lord of Heaven and earth  
+Hallelujah to the Lord of Heaven and earth  
+Hallelujah to the Lord of Heaven and earth  
+
+# Jesus Paid it All
+
+I hear the Savior say  
+Thy srength indeed is small  
+Child of weakness watch and pray  
+Find in me thine all in all  
+
+Jesus paid it all  
+All to Him I owe  
+Sin had left a crimson stain  
+He washed it white as snow  
+
+Lord now indeed I find  
+Thy power and thine alone  
+Can change the leper's spots    
+And melt the heart of stone  
+
+Jesus paid it all  
+All to Him I owe  
+Sin had left a crimson stain  
+He washed it white as snow  
+
+And when before the throne  
+I stand in Him complete  
+Jesus died my soul to save  
+My lips shall still repeat  
+
+Jesus paid it all  
+All to Him I owe  
+Sin had left a crimson stain  
+He washed it white as snow  
+
+Oh praise the one who paid my debt  
+And raised this life up from the dead  
+
+# How Deep the Father's Love
+
+How deep the Father’s love for us  
+How vast beyond all measure  
+That He should give His only Son  
+To make a wretch His treasure  
+  
+How great the pain of searing loss  
+The Father turns His face away  
+As wounds which mar the Chosen One  
+Bring many sons to glory  
+  
+Behold the man upon a cross  
+My sin upon His shoulders  
+Ashamed, I hear my mocking voice  
+Call out among the scoffers  
+  
+It was my sin that held Him there  
+Until it was accomplished  
+His dying breath has brought me life  
+I know that it is finished  
+  
+I will not boast in anything  
+No gifts, no power, no wisdom  
+But I will boast in Jesus Christ  
+His death and resurrection  
+  
+Why should I gain from His reward  
+I cannot give an answer  
+But this I know with all my heart  
+His wounds have paid my ransom  
+
+# Nothing but the Blood
+
+What can wash away my sin  
+Nothing but the blood of Jesus  
+What can make me whole again  
+Nothing but the blood of Jesus  
+  
+Oh, precious is the flow  
+That makes me white as snow  
+No other fount I know  
+Nothing but the blood of Jesus  
+
+# Great Are You Lord
+
+You give life, You are love
+You bring light to the darkness
+You give hope, You restore
+Every heart that is broken
+
+Great are You Lord
+
+It's Your breath in our lungs
+So we pour out our praise
+We pour out our praise
+It's Your breath in our lungs
+So we pour out our praise to You only
+
+All the earth will shout Your praise
+Our hearts will cry, these bones will sing
+Great are You Lord
+
+# Better is One Day
+
+How lovely is Your dwelling place  
+O Lord Almighty  
+My soul longs and even faints for You  
+For here my heart is satisfied  
+Within Your presence  
+I sing beneath the shadow of Your wings  
+  
+Better is one day in Your courts  
+Better is one day in Your house  
+Better is one day in Your courts  
+Than thousands elsewhere  
+  
+Better is one day in Your courts  
+Better is one day in Your house  
+Better is one day in Your courts  
+Than thousands elsewhere  
+  
+One thing I ask, and I would seek  
+To see Your beauty  
+To find You in the place Your glory dwells  
+Your glory dwells  
+  
+Better is one day in Your courts  
+Better is one day in Your house  
+Better is one day in Your courts  
+Than thousands elsewhere  
