@@ -1,256 +1,247 @@
-# Here for You
+# Amazing Grace
 
-Let our praise be Your welcome  
-Let our songs be a sign  
-We are here for You, we are here for You  
-  
-Let Your breath come from heaven  
-Fill our hearts with Your life  
-We are here for You, we are here for You  
-  
-To You our hearts are open  
-Nothing here is hidden  
-You are our one desire  
-You alone are holy  
-Only You are worthy  
-God, let Your fire fall down  
-  
-Let our shout be Your anthem  
-Your renown fill the skies  
-We are here for You, we are here for You  
-  
-Let Your Word move in power  
-Let what's dead come to life  
-We are here for You, we are here for You  
-  
-To You our hearts are open  
-Nothing here is hidden  
-You are our one desire  
-You alone are holy  
-Only You are worthy  
-God, let Your fire fall down  
-  
-We welcome You with praise  
-We welcome You with praise  
-Almighty God of love  
-Be welcomed in this place  
-  
-We welcome You with praise  
-We welcome You with praise  
-Almighty God of love  
-Be welcomed in this place  
-  
-Let every heart adore  
-Let every soul awake  
-Almighty God of love  
-Be welcomed in this place  
-  
-We welcome You with praise  
-We welcome You with praise  
-Almighty God of love  
-Be welcomed in this place  
+### Verse 1
+Amazing Grace how sweet the sound,
+That saved a wretch like me!
+I once was lost, but now am found;
+Was blind, but now I see.
 
-# Your Love Awakens Me
+### Verse 2
+‘Twas grace that taught my heart to fear,
+And grace my fears relieved;
+How precious did that grace appear
+The hour I first believed!
 
-There were walls between us  
-By the cross you came  
-And broke them down  
-You broke them down  
-  
-There were chains around us  
-By your grace we are  
-No longer bound  
-No longer bound  
-  
-You called me out of the grave  
-You called me into the light  
-You called my name and then my heart came alive  
-  
-Your love is greater  
-Your love is stronger  
-Your love awakens, awakens, awakens me  
-Your love is greater  
-Your love is stronger  
-Your love awakens, awakens, awakens me  
-  
-Feel the darkness shaking  
-All the dead are coming  
-Back to life  
-Back to life  
-  
-Hear the song awaken  
-All creation singing  
-We're alive  
-Cause You're alive  
-  
-You called me out of the grave  
-You called me into the light  
-You called my name and then my heart came alive  
-  
-Your love is greater  
-Your love is stronger  
-Your love awakens, awakens, awakens me  
-Your love is greater  
-Your love is stronger  
-Your love awakens, awakens, awakens me  
-  
-And what a love we found  
-Death can't hold us down  
-We shout it out  
-We're alive  
-Cause you're alive  
-  
-# God of Wonders  
-  
-Lord of all creation  
-Of the water, earth and sky  
-The Heavens are Your Tabernacle  
-Glory to the Lord on high  
-  
-God of wonders, beyond our galaxy  
-You are holy, holy  
-The universe declares Your majesty  
-You are holy, holy  
-Lord of heaven and earth  
-  
-Early in the morning  
-I will celebrate the light  
-And as I stumble into darkness  
-I will call Your name by night  
-  
-God of wonders, beyond our galaxy  
-You are holy, holy  
-The universe declares Your majesty  
-You are holy, holy  
-Lord of heaven and earth  
-  
-Hallelujah to the Lord of Heaven and earth  
-Hallelujah to the Lord of Heaven and earth  
-Hallelujah to the Lord of Heaven and earth  
+### Verse 3
+When we’ve been there ten thousand years,
+Bright shining as the sun,
+We’ve no less days to sing God’s praise
+Than when we’d first begun.
 
-# Jesus Paid it All
+### Verse 1
+Amazing Grace how sweet the sound,
+That saved a wretch like me!
+I once was lost, but now am found;
+Was blind, but now I see.
 
-I hear the Savior say  
-Thy srength indeed is small  
-Child of weakness watch and pray  
-Find in me thine all in all  
+# All Glory be to Christ - E Gary
 
-Jesus paid it all  
-All to Him I owe  
-Sin had left a crimson stain  
-He washed it white as snow  
+### Verse 1
+Should nothing of our efforts stand, No legacy survive,
+Unless the Lord does raise the house, In vain its builders strive.
+To you who boast tomorrow’s gain, Tell me, what is your life?
+A mist, it vanishes at dawn, All glory be to Christ.
 
-Lord now indeed I find  
-Thy power and thine alone  
-Can change the leper's spots    
-And melt the heart of stone  
+### Chorus 
+All glory be to Christ our King, 
+All glory be to Christ.
+His rule and reign we’ll ever sing,
+All glory be to Christ. 
 
-Jesus paid it all  
-All to Him I owe  
-Sin had left a crimson stain  
-He washed it white as snow  
+### Verse 2
+His will be done, His kingdom come, On earth as is above.
+Who is Himself our daily bread, Praise Him the Lord of love.
+Let living waters satisfy the thirsty without price.
+Come eat of Him, our Living Bread, all glory be to Christ.
 
-And when before the throne  
-I stand in Him complete  
-Jesus died my soul to save  
-My lips shall still repeat  
+### Chorus 
+All glory be to Christ our King,
+All glory be to Christ.
+His rule and reign we’ll ever sing,
+All glory be to Christ.
 
-Jesus paid it all  
-All to Him I owe  
-Sin had left a crimson stain  
-He washed it white as snow  
+### Verse 3
+When on the day, the great I Am, the faithful and the true,
+The Lamb who was for sinner’s slain, Is making all things new.
+Behold our God shall live with us, And be our steadfast Light,
+And we shall e’er his people be, All glory be to Christ.
 
-Oh praise the one who paid my debt  
-And raised this life up from the dead  
+### Chorus 
+All glory be to Christ our King,
+All glory be to Christ.
+His rule and reign we’ll ever sing,
+All glory be to Christ. x2
 
-# How Deep the Father's Love
+# It is Well
 
-How deep the Father’s love for us  
-How vast beyond all measure  
-That He should give His only Son  
-To make a wretch His treasure  
-  
-How great the pain of searing loss  
-The Father turns His face away  
-As wounds which mar the Chosen One  
-Bring many sons to glory  
-  
-Behold the man upon a cross  
-My sin upon His shoulders  
-Ashamed, I hear my mocking voice  
-Call out among the scoffers  
-  
-It was my sin that held Him there  
-Until it was accomplished  
-His dying breath has brought me life  
-I know that it is finished  
-  
-I will not boast in anything  
-No gifts, no power, no wisdom  
-But I will boast in Jesus Christ  
-His death and resurrection  
-  
-Why should I gain from His reward  
-I cannot give an answer  
-But this I know with all my heart  
-His wounds have paid my ransom  
+### Verse 1
+When peace like a river attendeth my way
+When sorrows like sea billows roll
+Whatever my lot, Thou hast taught me to say
 
-# Nothing but the Blood
+### Chorus
+It is well, it is well with my soul
+It is well (it is well) with my soul (with my soul)
+It is well, it is well with my soul
 
-What can wash away my sin  
-Nothing but the blood of Jesus  
-What can make me whole again  
-Nothing but the blood of Jesus  
-  
-Oh, precious is the flow  
-That makes me white as snow  
-No other fount I know  
-Nothing but the blood of Jesus  
+### Verse 2
+My sin, oh the bliss of this glorious thought (the thought)
+My sin, not in part, but the whole (every bit, every bit, all of it)
+Is nailed to the cross, and I bear it no more (yes)
+Praise the Lord, praise the Lord, O my soul
 
-# Great Are You Lord
+### Chorus
+It is well (it is well) with my soul (with my soul)
+It is well, it is well with my soul (sing it is well)
+It is well (it is well) with my soul (with my soul)
+It is well, it is well with my soul
 
-You give life, You are love  
-You bring light to the darkness  
-You give hope, You restore  
-Every heart that is broken  
-  
-Great are You Lord  
-  
-It's Your breath in our lungs  
-So we pour out our praise  
-We pour out our praise  
-It's Your breath in our lungs  
-So we pour out our praise to You only  
-  
-All the earth will shout Your praise  
-Our hearts will cry, these bones will sing  
-Great are You Lord  
+# Be Thou my Vision - D Graham
 
-# Better is One Day
+### Verse 1
+Be Thou my vision, O Lord of my heart
+Naught be all else to me, save that Thou art
+Thou my best thought, by day or by night
+Waking or sleeping, Thy presence my light
 
-How lovely is Your dwelling place  
-O Lord Almighty  
-My soul longs and even faints for You  
-For here my heart is satisfied  
-Within Your presence  
-I sing beneath the shadow of Your wings  
-  
-Better is one day in Your courts  
-Better is one day in Your house  
-Better is one day in Your courts  
-Than thousands elsewhere  
-  
-Better is one day in Your courts  
-Better is one day in Your house  
-Better is one day in Your courts  
-Than thousands elsewhere  
-  
-One thing I ask, and I would seek  
-To see Your beauty  
-To find You in the place Your glory dwells  
-Your glory dwells  
-  
-Better is one day in Your courts  
-Better is one day in Your house  
-Better is one day in Your courts  
-Than thousands elsewhere  
+### Verse 2
+Be Thou my wisdom, and Thou my true word
+I ever with Thee and Thou with me, Lord
+Thou my great Father, and I Thy true son
+Thou in me dwelling and I with Thee one
+
+### Verse 3
+Riches I heed not, nor vain, empty praise
+Thou mine inheritance, now and always
+Thou and Thou only first in my heart
+High King of heaven, my treasure Thou art
+
+### Verse 4
+High King of heaven, my victory won
+May I reach heaven's joys, O bright heaven's sun
+Heart of my own heart, whatever befall
+Still be my vision, O ruler of all
+Heart of my own heart, whatever befall
+Still be my vision, O ruler of all
+
+# In Christ Alone
+
+### Verse 1
+In Christ alone my hope is found
+He is my light, my strength, my song
+This cornerstone, this solid ground
+Firm through the fiercest drought and storm
+What heights of love, what depths of peace
+When fears are stilled, when strivings cease
+My comforter, my all in all
+Here in the love of Christ I stand
+
+### Verse 2
+In Christ alone who took on flesh
+Fullness of God in helpless babe
+This gift of love and righteousness
+Scorned by the ones He came to save
+Till on that cross as Jesus died
+The wrath of God was satisfied
+For every sin on Him was laid
+Here in the death of Christ I live
+
+### Verse 3
+There in the ground His body lay
+Light of the world by darkness slain
+Then bursting forth in glorious day
+Up from the grave He rose again
+And as He stands in victory
+Sin's curse has lost its grip on me
+For I am His and He is mine
+Bought with the precious blood of Christ
+
+### Verse 4
+No guilt in life, no fear in death
+This is the power of Christ in me
+From life's first cry to final breath
+Jesus commands my destiny
+No power of hell, no scheme of man
+Can ever pluck me from His hand
+Till He returns or calls me home
+Here in the power of Christ I'll stand
+
+# How Great Thou Art - C River
+
+### Verse 1
+
+Oh Lord, my God
+When I, in awesome wonder
+Consider all the worlds Thy hands have made
+I see the stars, I hear the rolling thunder
+Thy power throughout the universe displayed
+
+### Chorus
+
+Then sings my soul, my Savior God to Thee
+How great Thou art, how great Thou art
+Then sings my soul, my Savior God to Thee
+How great Thou art, how great Thou art
+
+### Verse 2
+And when I think that God, His Son not sparing
+Sent Him to die, I scarce can take it in
+That on the cross, my burden gladly bearing
+He bled and died to take away my sin
+
+### Chorus
+Then sings my soul, my Savior God to Thee
+How great Thou art, how great Thou art
+Then sings my soul, my Savior God to Thee
+How great Thou art, how great Thou art
+
+### Verse 3
+When Christ shall come, with shout of acclamation
+And take me home, what joy shall fill my heart
+Then I shall bow, in humble adoration
+And then proclaim, my God, how great Thou art
+
+### Chorus
+Then sings my soul, my Savior God to Thee
+How great Thou art, how great Thou art
+Then sings my soul, my Savior God to Thee
+How great Thou art, how great Thou art
+How great Thou art, how great Thou art
+
+# 10,000 Reasons
+
+### Verse 1
+The sun comes up, it’s a new day dawning;
+It’s time to sing Your song again.
+Whatever may pass and whatever lies before me,
+Let me be singing when the evening comes.
+
+### Chorus
+Bless the Lord, O my soul,
+O my soul, worship His holy Name.
+Sing like never before, O my soul.
+I’ll worship Your holy Name.
+
+### Verse 2
+You’re rich in love and You’re slow to anger,
+Your Name is great and Your heart is kind;
+For all Your goodness I will keep on singing,
+Ten thousand reasons for my heart to find.
+
+### Chorus
+Bless the Lord, O my soul,
+O my soul, worship His holy Name.
+Sing like never before, O my soul.
+I’ll worship Your holy Name.
+
+### Verse 3
+And on that day when my strength is failing,
+The end draws near and my time has come;
+Still my soul sings Your praise unending,
+Ten thousand years and then forevermore.
+
+### Chorus
+Bless the Lord, O my soul,
+O my soul, worship His holy Name.
+Sing like never before, O my soul.
+I’ll worship Your holy Name.
+Yes I will worship your holy name
+I will worship your holy name
+
+# Doxology
+
+Praise God, from whom all blessings flow;
+Praise Him, all creatures here below;
+Praise Him above, ye heav'nly host;
+Praise Father, Son, and Holy Ghost.
+Amen.
