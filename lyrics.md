@@ -24,7 +24,7 @@ That saved a wretch like me!
 I once was lost, but now am found;  
 Was blind, but now I see.  
   
-# All Glory be to Christ - E Gary  
+# All Glory be to Christ
   
 ### Verse 1  
 Should nothing of our efforts stand, No legacy survive,  
@@ -86,7 +86,7 @@ It is well, it is well with my soul (sing it is well)
 It is well (it is well) with my soul (with my soul)  
 It is well, it is well with my soul  
   
-# Be Thou my Vision - D Graham  
+# Be Thou my Vision
   
 ### Verse 1  
 Be Thou my vision, O Lord of my heart  
@@ -156,7 +156,7 @@ Can ever pluck me from His hand
 Till He returns or calls me home  
 Here in the power of Christ I'll stand  
   
-# How Great Thou Art - C River  
+# How Great Thou Art
   
 ### Verse 1  
   
