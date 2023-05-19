@@ -1,165 +1,6 @@
-# Amazing Grace  
+# How Great Thou Art  
   
 ### Verse 1  
-Amazing Grace how sweet the sound,  
-That saved a wretch like me!  
-I once was lost, but now am found;  
-Was blind, but now I see.  
-  
-### Verse 2  
-‘Twas grace that taught my heart to fear,  
-And grace my fears relieved;  
-How precious did that grace appear  
-The hour I first believed!  
-  
-### Verse 3  
-When we’ve been there ten thousand years,  
-Bright shining as the sun,  
-We’ve no less days to sing God’s praise  
-Than when we’d first begun.  
-  
-### Verse 1  
-Amazing Grace how sweet the sound,  
-That saved a wretch like me!  
-I once was lost, but now am found;  
-Was blind, but now I see.  
-  
-# All Glory be to Christ
-  
-### Verse 1  
-Should nothing of our efforts stand, No legacy survive,  
-Unless the Lord does raise the house, In vain its builders strive.  
-To you who boast tomorrow’s gain, Tell me, what is your life?  
-A mist, it vanishes at dawn, All glory be to Christ.  
-  
-### Chorus   
-All glory be to Christ our King,   
-All glory be to Christ.  
-His rule and reign we’ll ever sing,  
-All glory be to Christ.   
-  
-### Verse 2  
-His will be done, His kingdom come, On earth as is above.  
-Who is Himself our daily bread, Praise Him the Lord of love.  
-Let living waters satisfy the thirsty without price.  
-Come eat of Him, our Living Bread, all glory be to Christ.  
-  
-### Chorus   
-All glory be to Christ our King,  
-All glory be to Christ.  
-His rule and reign we’ll ever sing,  
-All glory be to Christ.  
-  
-### Verse 3  
-When on the day, the great I Am, the faithful and the true,  
-The Lamb who was for sinner’s slain, Is making all things new.  
-Behold our God shall live with us, And be our steadfast Light,  
-And we shall e’er his people be, All glory be to Christ.  
-  
-### Chorus   
-All glory be to Christ our King,  
-All glory be to Christ.  
-His rule and reign we’ll ever sing,  
-All glory be to Christ. x2  
-  
-# It is Well  
-  
-### Verse 1  
-When peace like a river attendeth my way  
-When sorrows like sea billows roll  
-Whatever my lot, Thou hast taught me to say  
-  
-### Chorus  
-It is well, it is well with my soul  
-It is well (it is well) with my soul (with my soul)  
-It is well, it is well with my soul  
-  
-### Verse 2  
-My sin, oh the bliss of this glorious thought (the thought)  
-My sin, not in part, but the whole (every bit, every bit, all of it)  
-Is nailed to the cross, and I bear it no more (yes)  
-Praise the Lord, praise the Lord, O my soul  
-  
-### Chorus  
-It is well (it is well) with my soul (with my soul)  
-It is well, it is well with my soul (sing it is well)  
-It is well (it is well) with my soul (with my soul)  
-It is well, it is well with my soul  
-  
-# Be Thou my Vision
-  
-### Verse 1  
-Be Thou my vision, O Lord of my heart  
-Naught be all else to me, save that Thou art  
-Thou my best thought, by day or by night  
-Waking or sleeping, Thy presence my light  
-  
-### Verse 2  
-Be Thou my wisdom, and Thou my true word  
-I ever with Thee and Thou with me, Lord  
-Thou my great Father, and I Thy true son  
-Thou in me dwelling and I with Thee one  
-  
-### Verse 3  
-Riches I heed not, nor vain, empty praise  
-Thou mine inheritance, now and always  
-Thou and Thou only first in my heart  
-High King of heaven, my treasure Thou art  
-  
-### Verse 4  
-High King of heaven, my victory won  
-May I reach heaven's joys, O bright heaven's sun  
-Heart of my own heart, whatever befall  
-Still be my vision, O ruler of all  
-Heart of my own heart, whatever befall  
-Still be my vision, O ruler of all  
-  
-# In Christ Alone  
-  
-### Verse 1  
-In Christ alone my hope is found  
-He is my light, my strength, my song  
-This cornerstone, this solid ground  
-Firm through the fiercest drought and storm  
-What heights of love, what depths of peace  
-When fears are stilled, when strivings cease  
-My comforter, my all in all  
-Here in the love of Christ I stand  
-  
-### Verse 2  
-In Christ alone who took on flesh  
-Fullness of God in helpless babe  
-This gift of love and righteousness  
-Scorned by the ones He came to save  
-Till on that cross as Jesus died  
-The wrath of God was satisfied  
-For every sin on Him was laid  
-Here in the death of Christ I live  
-  
-### Verse 3  
-There in the ground His body lay  
-Light of the world by darkness slain  
-Then bursting forth in glorious day  
-Up from the grave He rose again  
-And as He stands in victory  
-Sin's curse has lost its grip on me  
-For I am His and He is mine  
-Bought with the precious blood of Christ  
-  
-### Verse 4  
-No guilt in life, no fear in death  
-This is the power of Christ in me  
-From life's first cry to final breath  
-Jesus commands my destiny  
-No power of hell, no scheme of man  
-Can ever pluck me from His hand  
-Till He returns or calls me home  
-Here in the power of Christ I'll stand  
-  
-# How Great Thou Art
-  
-### Verse 1  
-  
 Oh Lord, my God  
 When I, in awesome wonder  
 Consider all the worlds Thy hands have made  
@@ -167,7 +8,6 @@ I see the stars, I hear the rolling thunder
 Thy power throughout the universe displayed  
   
 ### Chorus  
-  
 Then sings my soul, my Savior God to Thee  
 How great Thou art, how great Thou art  
 Then sings my soul, my Savior God to Thee  
@@ -198,50 +38,366 @@ Then sings my soul, my Savior God to Thee
 How great Thou art, how great Thou art  
 How great Thou art, how great Thou art  
   
-# 10,000 Reasons  
+# At Your Name  
   
 ### Verse 1  
-The sun comes up, it’s a new day dawning;  
-It’s time to sing Your song again.  
-Whatever may pass and whatever lies before me,  
-Let me be singing when the evening comes.  
+At Your name,   
+the mountains shake and crumble  
+At Your name,   
+the oceans roar and tumble  
+  
+### Pre-Chorus  
+At Your name, angels will bow,   
+the earth will rejoice  
+Your people cry out  
   
 ### Chorus  
-Bless the Lord, O my soul,  
-O my soul, worship His holy Name.  
-Sing like never before, O my soul.  
-I’ll worship Your holy Name.  
+Lord of all the earth  
+We shout Your name, shout Your name  
+Filling up the skies  
+With endless praise, endless praise  
+Yahweh, Yahweh  
+We love to shout Your name, oh Lord  
   
 ### Verse 2  
-You’re rich in love and You’re slow to anger,  
-Your Name is great and Your heart is kind;  
-For all Your goodness I will keep on singing,  
-Ten thousand reasons for my heart to find.  
+At Your name,   
+the morning breaks in glory  
+At Your name,   
+creation sings Your story  
+  
+### Pre-Chorus  
+At Your name, angels will bow,   
+the earth will rejoice  
+Your people cry out  
   
 ### Chorus  
-Bless the Lord, O my soul,  
-O my soul, worship His holy Name.  
-Sing like never before, O my soul.  
-I’ll worship Your holy Name.  
+Lord of all the earth  
+We shout Your name, shout Your name  
+Filling up the skies  
+With endless praise, endless praise  
+Yahweh, Yahweh  
+We love to shout Your name, oh Lord  
+  
+### Bridge  
+There is no one like our God  
+We will praise You, praise You  
+There's no one like our God  
+We will sing, we will sing  
+There is no one like our God  
+We will praise You, praise You  
+There's no one like our God  
+We will sing, we will sing  
+  
+### Chorus  
+Lord of all the earth  
+We shout Your name, shout Your name  
+Filling up the skies  
+With endless praise, endless praise  
+Yahweh, Yahweh  
+We love to shout Your name  
+Lord of all the earth  
+We shout Your name, shout Your name  
+Filling up the skies  
+With endless praise, endless praise  
+Yahweh, Yahweh  
+We love to shout Your name, oh Lord  
+  
+# Your Love Is Strong  
+  
+### Verse 1  
+Heavenly Father, You always amaze me  
+Let Your kingdom come in my world and in my life  
+Give me the food I need to live through today  
+And forgive me as I forgive the people that wrong me  
+  
+### Pre-Chorus 1  
+Lead me far from temptation  
+Deliver me from the evil one  
+  
+### Verse 2  
+I look out the window, the birds are composing  
+Not a note is out of tune or out of place  
+I walk to the meadow and stare at the flowers  
+Better dressed than any girl on her wedding day  
+  
+### Pre-Chorus 2  
+So why should I worry?  
+Why do I freak out?  
+God knows what I need  
+You know what I need  
+  
+### Chorus  
+Your love is  
+Your love is  
+Your love is strong  
+Your love is  
+Your love is  
+Your love is strong  
+Your love is  
+Your love is  
+Your love is strong  
   
 ### Verse 3  
-And on that day when my strength is failing,  
-The end draws near and my time has come;  
-Still my soul sings Your praise unending,  
-Ten thousand years and then forevermore.  
+The Kingdom of the heavens is now advancing  
+Invade my heart, invade this broken town  
+The Kingdom of the heavens is buried treasure  
+Would you sell yourself to buy the one you've found?  
+  
+### Verse 3  
+The Kingdom of the heavens is now advancing  
+Invade my heart, invade this broken town  
+The Kingdom of the heavens is buried treasure  
+Would you sell yourself to buy the one you've found?  
   
 ### Chorus  
-Bless the Lord, O my soul,  
-O my soul, worship His holy Name.  
-Sing like never before, O my soul.  
-I’ll worship Your holy Name.  
-Yes I will worship your holy name  
-I will worship your holy name  
+Your love is  
+Your love is  
+Your love is strong  
+Your love is  
+Your love is  
+Your love is strong  
+Your love is  
+Your love is  
+Your love is strong  
   
-# Doxology  
+### Bridge  
+Our God in heaven  
+Hallowed be Thy name above all names  
+Your kingdom come, Your will be done  
+On earth as it is in Heaven  
+Give us, today, our daily bread  
+Forgive us weary sinners  
+Keep us far from our vices and  
+Deliver us from these prisons  
   
-Praise God, from whom all blessings flow;  
-Praise Him, all creatures here below;  
-Praise Him above, ye heav'nly host;  
-Praise Father, Son, and Holy Ghost.  
-Amen.  
+# All who are Thirsty  
+  
+### Verse  
+All who are thirsty  
+All who are weak  
+Come to the fountain  
+Dip your heart in the stream of life  
+Let the pain and the sorrow  
+Be washed away  
+In the waves of his mercy  
+As deep cries out to deep  
+  
+### Chorus  
+Come Lord Jesus come   
+Holy Spirit come   
+As deep cries out to deep  
+  
+# Come To the Water  
+  
+### Verse 1  
+O let all who thirst  
+Let them come to the water  
+And let all who have nothing  
+Let them come to the Lord  
+Without money, without price  
+Why should you pay the price  
+Except for the Lord?  
+  
+### Verse 2  
+And let all who seek  
+Let them come to the water  
+And let all who have nothing  
+Let them come to the Lord  
+Without money, without strife  
+Why should you spend your life  
+Except for the Lord?  
+  
+### Verse 3   
+And let all who toil  
+Let them come to the water  
+And let all who are weary  
+Let them come to the Lord  
+All who labor without rest  
+How can your soul find rest  
+Except for the Lord?  
+  
+### Verse 4  
+And let all the poor  
+Let them come to the water  
+And let the ones who are laden  
+Let them come to the Lord  
+Bring the children without might  
+Easy the load and light  
+Come to the Lord  
+  
+# Run To the Father  
+  
+### Verse 1  
+I've carried a burden for too long on my own  
+I wasn't created to bear it alone  
+I hear Your invitation to let it all go  
+I see it now, I'm laying it down  
+And I know that I need You  
+  
+### Chorus  
+I run to the Father, I fall into grace  
+I'm done with the hiding, no reason to wait  
+My heart needs a surgeon, my soul needs a friend  
+So I'll run to the Father again and again and again and again  
+Oh-oh, oh-oh, oh-oh  
+  
+### Verse 2  
+You saw my condition, had a plan from the start  
+Your Son for redemption, the price for my heart  
+And I don't have a context for that kind of love  
+I don't understand, I can't comprehend  
+All I know is I need You  
+  
+### Chorus  
+I run to the Father, I fall into grace  
+I'm done with the hiding, no reason to wait  
+My heart needs a surgeon, my soul needs a friend  
+So I'll run to the Father again and again and again and again  
+Oh-oh, oh-oh…  
+Again and again and again and again (Oh-oh, oh-oh)  
+Oh-oh, oh-oh… (Oh-ohh)  
+  
+### Bridge  
+My heart has been in Your sights  
+Long before my first breath  
+Running into Your arms  
+Is running to life from death  
+And I feel this rush deep in my chest  
+Your mercy is calling out  
+Just as I am You pull me in  
+And I know I need You now  
+  
+### Chorus  
+I run to the Father, I fall into grace  
+I'm done with the hiding, no reason to wait  
+My heart needs a surgeon, my soul needs a friend  
+So I'll run to the Father again and again  
+I run to the Father, I fall into grace  
+I'm done with the hiding, no reason to wait  
+And my heart found a surgeon, my soul found a friend  
+So I'll run to the Father again and again and again and again  
+Oh-oh, oh-oh…  
+Again and again and again and again (Oh-oh, oh-oh)  
+Oh-oh, oh-oh, oh-oh  
+Again and again  
+  
+# Lead Me To the Cross  
+  
+### Verse 1  
+Savior I come quiet my soul  
+Remember redemption's hill  
+Where Your blood was spilled  
+For my ransom  
+  
+### Pre-Chorus  
+Everything I once held dear  
+I count it all as loss  
+  
+### Chorus  
+Lead me to the cross  
+Where Your love poured out  
+Bring me to my knees  
+Lord I lay me down  
+Rid me of myself  
+I belong to You  
+Oh lead me lead me to the cross  
+  
+### Verse 2  
+You were as I tempted and trialled human  
+The word became flesh  
+Bore my sin and death  
+Now You're risen  
+  
+### Pre-chorus  
+Everything I once held dear  
+I count it all as loss  
+  
+### Chorus  
+Lead me to the cross  
+Where Your love poured out  
+Bring me to my knees  
+Lord I lay me down  
+Rid me of myself  
+I belong to You  
+Oh lead me lead me to the cross  
+  
+### Bridge  
+To Your heart  
+To Your heart  
+Lead me to Your heart  
+Lead me to Your heart  
+  
+### Chorus  
+Lead me to the cross  
+Where Your love poured out  
+Bring me to my knees  
+Lord I lay me down  
+Rid me of myself  
+I belong to You  
+Oh lead me, lead me  
+Lead me to the cross  
+Where Your love poured out  
+Bring me to my knees  
+Lord I lay me down  
+Rid me of myself  
+I belong to You  
+Oh lead me lead me to the cross  
+  
+# Good Grace  
+  
+### Verse 1  
+People  
+Come together  
+Strange as neighbours  
+Our blood is one  
+Children of generations  
+Of every nation  
+Of kingdom come  
+  
+### Chorus  
+Don't let your heart be troubled  
+Hold your head up high  
+Don't fear no evil  
+Fix your eyes on this one truth  
+God is madly in love with you  
+Take courage  
+Hold on  
+Be strong  
+Remember where our help comes from  
+  
+### Verse 2  
+Jesus  
+Our redemption  
+Our salvation  
+Is in His blood  
+Jesus  
+Light of heaven  
+Friend forever  
+His kingdom come  
+  
+### Chorus  
+Don't let your heart be troubled  
+Hold your head up high  
+Don't fear no evil  
+Fix your eyes on this one truth  
+God is madly in love with you  
+Take courage  
+Hold on  
+Be strong  
+Remember where our help comes from  
+  
+### Bridge  
+Swing wide  
+All you heavens  
+Let the praise go up  
+As the walls come down  
+All creation  
+Everything with breath  
+Repeat the sound  
+All His children  
+Clean hands  
+Pure hearts  
+Good grace  
+Good God  
+His name is Jesus  
+  
