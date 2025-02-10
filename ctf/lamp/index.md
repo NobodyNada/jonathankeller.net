@@ -55,7 +55,7 @@ RELRO           STACK CANARY      NX            PIE             RPATH      RUNPA
 Full RELRO      No canary found   NX enabled    PIE enabled     No RPATH   RW-RUNPATH   41 Symbols	 No	    0		    2	        lamp
 ```
 
-There's also a mysterious `run` binary that seems to invoke `lamp`; it's a weird minified/obfuscated ELF file and 
+There's also a mysterious `run` binary that seems to invoke `lamp`; it's a weird minified/obfuscated ELF file, and many tools refuse to work with it without some coercing.
 
 Let's look at the layout of the heap to see what we're working with:
 
