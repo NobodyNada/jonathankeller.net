@@ -4,7 +4,7 @@
         "dst": "/media/fat/MiSTer"
     },
     {
-        "src": "https://github.com/NobodyNada/SNES_MiSTer/raw/refs/heads/master/releases/MiSTer_devel_20250727.rbf",
+        "src": "https://github.com/NobodyNada/SNES_MiSTer/raw/refs/heads/master/releases/SNES_devel_20250727.rbf",
         "dst": "/media/fat/_Console/SNES_devel_20250727.rbf"
     },
     {
