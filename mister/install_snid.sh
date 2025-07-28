@@ -9,6 +9,7 @@ wget -O- https://jonathankeller.net/mister/manifest.json | jq -r '.[] | [.src, .
     echo "Downloading" $src
     wget -SL $src -O /tmp/download
     mv /tmp/download $dst
+    chmod a+x $dst
 done
 
 echo "Done, rebooting..."
