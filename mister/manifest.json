@@ -8,7 +8,7 @@
         "dst": "/media/fat/_Console/SNES_devel_20250727.rbf"
     },
     {
-        "src": "https://github.com/NobodyNada/snid/releases/download/20250727/snid",
+        "src": "https://github.com/NobodyNada/snid/releases/latest/download/snid",
         "dst": "/usr/bin/snid"
     },
     {
