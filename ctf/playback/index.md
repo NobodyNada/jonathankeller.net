@@ -116,7 +116,7 @@ Jumping to the program counter at the time of the crash, we see that it's in the
 ![screenshot of disassembly of _platform_memmove](memmove_loop.png "screenshot of disassembly of _platform_memmove")
 
 ```asm
-19634f578  60043fac   stnp    q0, q1, [x3, #-0x20]
+19634f578  60043fac   stnp    q0, q1, [x3, #-0x20]    <=== pc
 19634f57c  638000d1   sub     x3, x3, #0x20
 19634f580  20047fad   ldp     q0, q1, [x1, #-0x20]
 19634f584  218000d1   sub     x1, x1, #0x20
@@ -218,7 +218,7 @@ Jumping to `MIDIPacketListAdd`, we can see that this function does indeed call `
 19f15879c                *(x0 + 1) = data[1]
 19f158754        else if (nData != 0)
 19f158794            if (nData != 1)
-19f1587c4                j___platform_memmove(x0, data, nData)
+19f1587c4                j___platform_memmove(x0, data, nData)      <=== lr
 19f158794            else
 19f15879c                *x0 = *data
 19f15879c        
@@ -232,10 +232,10 @@ So, if we're correct in our guess that `memmove` was called with a negative size
 
 The code for Playback is split into a number of dynamic libraries. Fortunately, since dynamically-linked symbols are referenced by name, we can easily find which libraries might be calling `MIDIPacketListAdd` with a simple `grep`:
 
-```
-> rg -uuu MIDIPacketListAdd
+```sh
+$ rg -uuu MIDIPacketListAdd
 Contents/Frameworks/MIKMIDI.framework/Versions/A/MIKMIDI: binary file matches (found "\0" byte around offset 4)
-> 
+$ 
 ```
 
 And indeed, loading that into binja and searching for symbol references, we do find two calls to that function:
@@ -324,7 +324,7 @@ This function calculates the length of a MIDI message given the command byte, an
 
 To confirm, I enabled macOS's [inter-application MIDI bus](https://support.apple.com/guide/audio-midi-setup/transfer-midi-information-between-apps-ams1013/mac) and used the [`sendmidi`](https://github.com/gbevin/SendMIDI) command-line tool to send Playback a MIDI system reset message:
 
-```
+```sh
 $ sendmidi dev 'IAC Driver Bus 1' rst
 ```
 
@@ -361,7 +361,7 @@ This is almost certainly an incorrect "fix" for the bug -- in fact, looking more
 
 From there I just had to export the patched binary and codesign it:
 
-```
+```sh
 $ sudo codesign -s - -f Frameworks/MIKMIDI.framework/Versions/A/MIKMIDI
 ```
 
