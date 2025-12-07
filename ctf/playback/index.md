@@ -14,7 +14,7 @@ Outside of my day job of microcontroller firmware architecture and security, I a
 
 Here's a photo of my setup for the weekend:
 
-![MacBook Pro 16" M1, Scarlett 18i20, Behringer X-Touch, AIAIAI X03/TMA-2 Studio Wireless, Yamaha YC88](setup.jpg MacBook Pro 16" M1, Scarlett 18i20, Behringer X-Touch, AIAIAI X03/TMA-2 Studio Wireless, Yamaha YC88)
+![MacBook Pro 16" M1, Scarlett 18i20, Behringer X-Touch, AIAIAI X03/TMA-2 Studio Wireless, Yamaha YC88](setup.jpg "MacBook Pro 16\" M1, Scarlett 18i20, Behringer X-Touch, AIAIAI X03/TMA-2 Studio Wireless, Yamaha YC88")
 
 My laptop is doing all the heavy lifting here; everything else in this picture is just I/O connected to my computer. My keyboard and mixer send MIDI messages to [MainStage](https://www.apple.com/mainstage/), which actually creates the sounds. I'm also running click and tracks from my laptop via [Playback](https://www.multitracks.com/products/playback/) from the excellent [MultiTracks.com](https://www.multitracks.com). The click signal goes into our in-ear monitors to keep us in time and cue song sections and transitions, and the tracks are sent to the P.A. system to add a small amount of extra synths, percussion, and effects to the mix. I'm running my keys output and monitor mix through my audio interface, while click and tracks are sent to the sound board digitally via [Dante](https://en.wikipedia.org/wiki/Dante_(networking)).
 
@@ -22,7 +22,7 @@ My laptop is doing all the heavy lifting here; everything else in this picture i
 
 Everything worked great during setup and sound check, but as soon as we started our first set, a serious problem appeared: Playback began to crash frequently, usually every 30 seconds to 5 minutes. I spent half the set playing my keyboard with one hand and trying to relaunch Playback and seek to the right spot in the song with my other hand.
 
-![distracted keyboard playing](set.jpg distracted keyboard playing)
+![distracted keyboard playing](set.jpg "distracted keyboard playing")
 
 I have to give huge props to the rest of the band for holding it together with only intermittently-working click -- it's not *necessary* to play well, but it's nice to have and unexpectedly losing it live is jarring (especially after practicing with it).
 
@@ -109,11 +109,11 @@ This gives us very little information to go on. It appears that thread 10 has wr
 
 But we also have 29 general-purpose registers we can look at for clues. Let's disassemble `_platform_memmove` and see if we can figure out how that function was using the registers; maybe then the register contents can tell us something. `libsystem_platform.dylib` is a Mach-O universal binary, so we need to make sure we select the right architecture (the crash log tells us this is `arm64e`). We'll also configure Binary Ninja with [the base address where this library was actually loaded in memory](https://en.wikipedia.org/wiki/Address_space_layout_randomization) (`0x19634c000` in this case), so that we don't have to manually translate addresses (as much):
 
-!["Open with Options" view in binja, "Image Base Address" is set to 0x19634c000](binja_config.png "Open with Options" view in binja, "Image Base Address" is set to 0x19634c000)
+!["Open with Options" view in binja, "Image Base Address" is set to 0x19634c000](binja_config.png "\"Open with Options\" view in binja, \"Image Base Address\" is set to 0x19634c000")
 
 Jumping to the program counter at the time of the crash, we see that it's in the middle of a loop in `memmove`:
 
-![screenshot of disassembly of _platform_memmove](memmove_loop.png screenshot of disassembly of _platform_memmove)
+![screenshot of disassembly of _platform_memmove](memmove_loop.png "screenshot of disassembly of _platform_memmove")
 
 ```asm
 19634f578  60043fac   stnp    q0, q1, [x3, #-0x20]
@@ -150,11 +150,11 @@ Apple's dynamic linker (`dyld`) has a performance optimization known as the ["sh
 
 Fortunately, Binary Ninja has the ability to extract libraries from the shared cache, although this functionality is quite well hidden. First, load up Binary Ninja and point it at the easy-to-remember path `/System/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e`. Binary Ninja will then consume 12GB of memory and show you the shared cache as a hexdump. If you click on the "Hex" dropdown, a new option appears: Dyld Shared Cache Triage.
 
-![Very intuitive.](dscview.png Very intuitive.)
+![Very intuitive.](dscview.png "Very intuitive.")
 
 You can then search for the library you want, and select "Load Selected". Switch the editor to "Linear" view, and the symbols from the library you want will be loaded and decompiled.
 
-![Searching shared cache for CoreMIDI](coremidi.png Searching shared cache for CoreMIDI)
+![Searching shared cache for CoreMIDI](coremidi.png "Searching shared cache for CoreMIDI")
 
 Jumping to `MIDIPacketListAdd`, we can see that this function does indeed call `memmove`, always passing the `nData` argument as the number of bytes to copy.
 
@@ -240,7 +240,7 @@ Contents/Frameworks/MIKMIDI.framework/Versions/A/MIKMIDI: binary file matches (f
 
 And indeed, loading that into binja and searching for symbol references, we do find two calls to that function:
 
-![One reference in `+[MIKMIDICommand commandsWithMIDIPacket:]`, and another in `_MIKCreateMIDIPacketListFromCommands`](references.png One reference in `+[MIKMIDICommand commandsWithMIDIPacket:]`, and another in `_MIKCreateMIDIPacketListFromCommands`)
+![One reference in `+[MIKMIDICommand commandsWithMIDIPacket:]`, and another in `_MIKCreateMIDIPacketListFromCommands`](references.png "One reference in +[MIKMIDICommand commandsWithMIDIPacket:], and another in _MIKCreateMIDIPacketListFromCommands")
 
 At this point I googled `MIKMIDI` to see if this library was open-source, and [indeed it is](https://github.com/mixedinkey-opensource/MIKMIDI). I figured maybe another user of this library could have encountered a similar crash before, so I searched the issue tracker for `MIDIPacketListAdd`, and found [a helpful comment](https://github.com/mixedinkey-opensource/MIKMIDI/issues/314#issuecomment-1120246223):
 
@@ -332,7 +332,7 @@ Playback immediately crashed, with the exact same stack trace!
 
 I then used [a MIDI logger](https://www.snoize.com/MIDIMonitor/) to record a trace of me playing my keyboard for a while. Eventually Playback crashed again, and I searched the log, finding that my audio interface had indeed received a MIDI reset message corresponding to the time of the crash:
 
-![the crash log I showed above was actually from this crash -- note the timestamps match](midimon.png the crash log I showed above was actually from this crash -- note the timestamps match)
+![the crash log I showed above was actually from this crash -- note the timestamps match](midimon.png "the crash log I showed above was actually from this crash -- note the timestamps match")
 
 Finally I know for sure the exact message that was causing the crash, and can reproduce it on demand.
 
@@ -355,7 +355,7 @@ if (commandType == MIKMIDICommandTypeSystemExclusive) {
 
 In order to quickly address the bug, I decided to change the branch condition to `if (standardLength < 0)`, by replacing those two instructions:
 
-![binary patch changing the condition](patch.png binary patch changing the condition)
+![binary patch changing the condition](patch.png)
 
 This is almost certainly an incorrect "fix" for the bug -- in fact, looking more closely at the code in retrospect, it probably drops some messages if the system reset message is not at the end of the packet (as well as introducing an out-of-bounds read if it's not at the beginning). But it doesn't crash, and in order to just get through the rest of the weekend, I didn't mind the occasional dropped message (since Playback is only listening for a couple of MIDI messages, and none of them are mission-critical).
 
