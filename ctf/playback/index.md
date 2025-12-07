@@ -12,7 +12,7 @@ Outside of my day job of microcontroller firmware architecture and security, I a
 
 Here's a photo of my setup for the weekend:
 
-![setup.jpg](MacBook Pro 16" M1, Scarlett 18i20, Behringer X-Touch, AIAIAI X03/TMA-2 Studio Wireless, Yamaha YC88)
+![MacBook Pro 16" M1, Scarlett 18i20, Behringer X-Touch, AIAIAI X03/TMA-2 Studio Wireless, Yamaha YC88](setup.jpg)
 
 My laptop is doing all the heavy lifting here; everything else in this picture is just I/O connected to my computer. My keyboard and mixer send MIDI messages to [MainStage](https://www.apple.com/mainstage/), which actually creates the sounds. I'm also running click and tracks from my laptop via [Playback](https://www.multitracks.com/products/playback/) from the excellent [MultiTracks.com](https://www.multitracks.com). The click signal goes into our in-ear monitors to keep us in time and cue song sections and transitions, and the tracks are sent to the P.A. system to add a small amount of extra synths, percussion, and effects to the mix. I'm running my keys output and monitor mix through my audio interface, while click and tracks are sent to the sound board digitally via [Dante](https://en.wikipedia.org/wiki/Dante_(networking)).
 
