@@ -20,7 +20,7 @@ My laptop is doing all the heavy lifting here; everything else in this picture i
 
 Everything worked great during setup and sound check, but as soon as we started our first set, a serious problem appeared: Playback began to crash frequently, usually every 30 seconds to 5 minutes. I spent half the set playing my keyboard with one hand and trying to relaunch Playback and seek to the right spot in the song with my other hand. I have to give huge props to the rest of the band for holding it together with only intermittently-working click -- it's not *necessary* to play well, but it's nice to have and unexpectedly losing it live is jarring (especially after practicing with it).
 
-![set.jpg](distracted keyboard playing)
+![distracted keyboard playing](set.jpg)
 
 At this point, all we had to troubleshoot was the circumstantial evidence that the crashes only occurred during our set -- not during rehearsal before, not after the set, and also not during the break between the first and second half of the set -- as well as a small clue from the crash log:
 
