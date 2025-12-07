@@ -6,7 +6,7 @@ date: December 6, 2025
 
 *December 6, 2025*
 
-Outside of my day job of microcontroller firmware architecture and security, I also have a side hobby of playing keyboard instruments, mainly for churches. Recently, some friends invited me to play at a retreat for middle school youth groups, and I ended up down a weird rabbit hole of reverse-engineering our tracks software to fix a weird crash.
+Outside of my day job of microcontroller firmware architecture and security, I also have a side hobby of playing keyboard instruments, mainly for churches. Recently, some friends invited me to play at a retreat for some local middle school youth groups, and I ended up down a weird rabbit hole of reverse-engineering our tracks software to fix a weird crash.
 
 ## My setup
 
