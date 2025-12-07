@@ -139,7 +139,7 @@ So why are we doing that? Just how many bytes has `memmove` been asked to copy? 
 Let's try to disassemble `MIDIPacketListAdd` to see if there's a code path that could lead to calling `memmove` with a negative size. This is a part of macOS's [CoreMIDI](https://developer.apple.com/documentation/coremidi/) library, which the crash log tells us is at `/System/Library/Frameworks/CoreMIDI.framework/Versions/A/CoreMIDI`:
 
 ```sh
-$ ls /System/Library/Frameworks/CoreMIDI.framework/Versions/A/CoreMIDI                                                                                                                                                          15:28
+$ ls /System/Library/Frameworks/CoreMIDI.framework/Versions/A/CoreMIDI
 ls: /System/Library/Frameworks/CoreMIDI.framework/Versions/A/CoreMIDI: No such file or directory
 $ 
 ```
@@ -233,7 +233,7 @@ So, if we're correct in our guess that `memmove` was called with a negative size
 The code for Playback is split into a number of dynamic libraries. Fortunately, since dynamically-linked symbols are referenced by name, we can easily find which libraries might be calling `MIDIPacketListAdd` with a simple `grep`:
 
 ```
-> rg -uuu MIDIPacketListAdd                                                                                                                                                                                                          15:56
+> rg -uuu MIDIPacketListAdd
 Contents/Frameworks/MIKMIDI.framework/Versions/A/MIKMIDI: binary file matches (found "\0" byte around offset 4)
 > 
 ```
