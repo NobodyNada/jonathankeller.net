@@ -123,14 +123,14 @@ elif [ "$1" == "5" ]; then
 			done 
 		) &
 	fi
-elif [ "$1" == "6" ] && which snid > /dev/null ; then
+elif [ "$1" == "6" ] && [ -f /media/fat/snid ] ; then
 	if [ ! -f /tmp/uartmode6 ]; then
 		kill_all
 		echo "1" >/tmp/uartmode6
 		(
 			while true
 			do
-				RUST_LOG=info taskset 1 snid > /tmp/snid.log 2>&1
+				RUST_LOG=info taskset 1 /media/fat/snid > /tmp/snid.log 2>&1
 				wait $!
 
 				[ ! -f /tmp/uartmode6 ] && exit 0
