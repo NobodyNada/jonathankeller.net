@@ -1,11 +1,11 @@
 [
     {
-        "src": "https://github.com/NobodyNada/Main_MiSTer/raw/refs/heads/master/releases/MiSTer_devel_20260103",
+        "src": "https://github.com/NobodyNada/Main_MiSTer/raw/refs/heads/master/releases/MiSTer_SNI_20260119",
         "dst": "/media/fat/MiSTer"
     },
     {
-        "src": "https://github.com/NobodyNada/SNES_MiSTer/raw/refs/heads/master/releases/SNES_devel_20260104.rbf",
-        "dst": "/media/fat/_Console/SNES_devel_20260104.rbf"
+        "src": "https://github.com/NobodyNada/SNES_MiSTer/raw/refs/heads/master/releases/SNES_SNI_20260119.rbf",
+        "dst": "/media/fat/_Console/SNES_SNI_20260119.rbf"
     },
     {
         "src": "https://github.com/NobodyNada/snid/releases/latest/download/snid",
