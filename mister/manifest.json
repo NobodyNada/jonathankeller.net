@@ -4,8 +4,8 @@
         "dst": "/media/fat/MiSTer"
     },
     {
-        "src": "https://github.com/NobodyNada/SNES_MiSTer/raw/refs/heads/master/releases/SNES_SNI_20260119.rbf",
-        "dst": "/media/fat/_Console/SNES_SNI_20260119.rbf"
+        "src": "https://github.com/NobodyNada/SNES_MiSTer/raw/refs/heads/master/releases/SNES_SNI_20260124.rbf",
+        "dst": "/media/fat/_Console/SNES_SNI_20260124.rbf"
     },
     {
         "src": "https://github.com/NobodyNada/snid/releases/latest/download/snid",
